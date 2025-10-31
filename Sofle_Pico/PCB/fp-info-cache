@@ -1,4 +1,4 @@
-26791123425861598
+26792887814899927
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97927,8 +97927,8 @@ Cherry_MX_DS_Hotswap_v3.5.4
 
 
 0
-6
-2
+0
+0
 Sofle_Pico
 Cirque tie in
 
@@ -97948,8 +97948,8 @@ D_SOD-123_DO-35_Hybrid_DoubleSided_V2
 SOD-123
 SOD-123
 0
-10
-2
+0
+0
 Sofle_Pico
 D_SOD-123_DO-41_7.62mm_Hybrid_DoubleSided
 SOD-123
@@ -98049,12 +98049,19 @@ rotary encoder
 5
 5
 Sofle_Pico
+SK6803_MINI-E_v3.5.5
+
+
+0
+0
+0
+Sofle_Pico
 SK6803_MINIE_v3.5.4
 
 
 0
-24
-4
+0
+0
 Sofle_Pico
 SN74AHCT1G125
 SN74AHCT1G125 Buffer Gate SOT-23
@@ -98081,8 +98088,8 @@ SW_MX_HS_DS_1u
 Footprint for Cherry MX style switches with Kailh hotswap socket
 
 0
-14
-2
+0
+0
 Sofle_Pico
 Sofle Pico Choc Logo copper
 

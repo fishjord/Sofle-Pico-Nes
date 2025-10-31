@@ -1,4 +1,4 @@
-(footprint "SK6803_MINIE_v3.5.4"
+(footprint "SK6803_MINI-E_v3.5.5"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			(justify mirror)
 		)
 	)
-	(property "Value" "SK6803_MINIE_v3.5.4"
+	(property "Value" "SK6803_MINI-E_v3.5.5"
 		(at 0.01 -3.85 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -53,6 +53,46 @@
 		)
 	)
 	(attr through_hole)
+	(fp_line
+		(start -1.6764 -1.524)
+		(end 1.7272 -1.524)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "30597fd1-02fb-4732-a430-73338a11b0fc")
+	)
+	(fp_line
+		(start -1.6764 1.524)
+		(end -1.6764 -1.524)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9b5e8f22-677b-4ced-a491-00b9db900e45")
+	)
+	(fp_line
+		(start 1.7272 -1.524)
+		(end 1.7272 1.524)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "81e8ab96-53a5-46a9-8aaa-91a09f92b4f3")
+	)
+	(fp_line
+		(start 1.7272 1.524)
+		(end -1.6764 1.524)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "36e66e2c-3561-4e12-834c-79b613e25f5f")
+	)
 	(fp_line
 		(start -1.6764 1.4986)
 		(end -1.6764 -1.5)
