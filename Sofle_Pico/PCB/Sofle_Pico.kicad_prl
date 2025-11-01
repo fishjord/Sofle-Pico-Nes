@@ -31,7 +31,6 @@
     "visible_items": [
       "vias",
       "ratsnest",
-      "grid",
       "footprints_front",
       "footprints_back",
       "tracks",
@@ -44,7 +43,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_00000080",
+    "visible_layers": "00000000_00000000_00000000_00000020",
     "zone_display_mode": 1
   },
   "git": {

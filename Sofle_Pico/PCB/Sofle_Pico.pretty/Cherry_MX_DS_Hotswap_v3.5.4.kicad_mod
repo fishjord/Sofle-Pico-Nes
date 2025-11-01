@@ -263,6 +263,36 @@
 		(uuid "5a038afd-4005-46ae-aacc-f952fab06aa1")
 	)
 	(fp_line
+		(start -9.15 -3.95)
+		(end -9.15 -1.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "953a5e3d-5e5a-48b7-b484-ec2a1214c9cb")
+	)
+	(fp_line
+		(start -9.15 -1.150004)
+		(end -6.550132 -1.150004)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "ef5e8c73-42ff-4213-b351-c32113ac5d7f")
+	)
+	(fp_line
+		(start -6.550003 -3.95)
+		(end -9.15 -3.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "97a7e2cc-a80c-41ad-9437-5340b322cbdc")
+	)
+	(fp_line
 		(start -6.550003 -3.95)
 		(end -6.550003 -4.445004)
 		(stroke
@@ -271,6 +301,16 @@
 		)
 		(layer "B.SilkS")
 		(uuid "224a6591-b6c7-4ae6-9fd7-07adbfae4d08")
+	)
+	(fp_line
+		(start -5.935075 -0.626921)
+		(end -4.2 -0.635004)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "e238520b-e6ca-4e44-91b4-b254406dba6e")
 	)
 	(fp_line
 		(start -4.2 -0.635004)
@@ -321,6 +361,46 @@
 		)
 		(layer "B.SilkS")
 		(uuid "23a8eefa-e9b9-4bc4-be3a-fefc29cb58eb")
+	)
+	(fp_line
+		(start 1.899997 -2.540004)
+		(end 4.275 -2.540004)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "38e6c27b-b0c1-46bc-866d-3436eb6395f3")
+	)
+	(fp_line
+		(start 4.880003 -6.450004)
+		(end 7.5 -6.450004)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "574e718e-7e98-46f6-b176-5e284c7ec7cc")
+	)
+	(fp_line
+		(start 7.5 -6.450004)
+		(end 7.5 -3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "493e20c4-5728-4810-910b-3520ba36ef40")
+	)
+	(fp_line
+		(start 7.5 -3.15)
+		(end 4.870181 -3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "14b7e303-d3da-440d-a24e-78d67df40876")
 	)
 	(fp_arc
 		(start -6.550003 -4.445004)
@@ -376,6 +456,17 @@
 		)
 		(layer "B.SilkS")
 		(uuid "82e9bcc4-49f3-42cd-a031-d7921f3ed7c1")
+	)
+	(fp_arc
+		(start 4.870181 -3.150001)
+		(mid 4.715961 -2.740727)
+		(end 4.33 -2.535001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "94894f24-151b-45b7-af2f-e45a840a57c5")
 	)
 	(fp_line
 		(start -9.525 -9.525)
