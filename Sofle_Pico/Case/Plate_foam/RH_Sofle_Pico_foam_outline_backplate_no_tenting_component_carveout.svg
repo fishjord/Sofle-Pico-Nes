@@ -5,7 +5,7 @@
    height="215.9000mm"
    viewBox="0.0000 0.0000 279.4000 215.9000"
    id="svg124"
-   sodipodi:docname="Sofle_Pico_foam_outline_backplate_no_tenting_component_carveout.svg"
+   sodipodi:docname="RH_Sofle_Pico_foam_outline_backplate_no_tenting_component_carveout.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="7.1666669"
-     inkscape:cx="421.2558"
-     inkscape:cy="503.93022"
+     inkscape:zoom="0.89583336"
+     inkscape:cx="383.99999"
+     inkscape:cy="474.97673"
      inkscape:window-width="1536"
      inkscape:window-height="953"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g91" />
+     inkscape:current-layer="svg124" />
   <title
      id="title1">SVG Image created as Sofle_Pico-B_Silkscreen.svg date 2025/11/01 08:54:27 </title>
   <desc
@@ -382,18 +382,6 @@
        id="path85" />
     <path
        style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;"
-       d="M 218.3588,44.1013 218.3588,44.2187 218.3592,44.2200 217.2508,44.2200 217.2511,44.2187 217.2511,44.1013 217.2508,44.1000 218.3592,44.1000 Z"
-       id="path86" />
-    <path
-       style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;"
-       d="M 223.8188,44.1013 223.8188,44.2187 223.8192,44.2200 219.2508,44.2200 219.2511,44.2187 219.2511,44.1013 219.2508,44.1000 223.8192,44.1000 Z"
-       id="path87" />
-    <path
-       style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;"
-       d="M 226.3588,44.1013 226.3588,44.2187 226.3592,44.2200 224.7108,44.2200 224.7112,44.2187 224.7112,44.1013 224.7108,44.1000 226.3592,44.1000 Z"
-       id="path88" />
-    <path
-       style="fill:#000000; fill-opacity:1.0000; stroke:none;fill-rule:evenodd;"
        d="M 141.2805,41.0598 141.3076,41.0869 141.3114,41.1060 141.3114,44.1540 141.3076,44.1731 141.2805,44.2002 141.2614,44.2040 137.8578,44.2040 137.8387,44.2002 137.8116,44.1731 137.8078,44.1540 137.8078,44.1040 137.9078,44.1040 141.2114,44.1040 141.2114,41.1560 137.9078,41.1560 137.9078,44.1040 137.8078,44.1040 137.8078,41.1060 137.8116,41.0869 137.8387,41.0598 137.8578,41.0560 141.2614,41.0560 Z"
        id="path89" />
     <path
@@ -528,24 +516,7 @@
   </g>
   <g
      style="fill:none;  stroke:#000000; stroke-width:0.1500; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g114">
-    <path
-       d="M226.8248 42.8749 L226.8248 119.0749 "
-       id="path113" />
-  </g>
-  <g
-     style="fill:none;  stroke:#000000; stroke-width:0.1000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g116">
-    <path
-       d="M94.1101 150.2204 L149.1248 134.7249 "
-       id="path114" />
-    <path
-       d="M81.4032 35.4752 L81.4032 127.5300 "
-       id="path115" />
-    <path
-       d="M82.9036 33.9748 A1.5005 1.5005 0.0 0 0 81.4032 35.4752"
-       id="path116" />
-  </g>
+     id="g114" />
   <g
      style="fill:none;  stroke:#000000; stroke-width:0.1500; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
      id="g117">
@@ -562,28 +533,5 @@
   </g>
   <g
      style="fill:none;  stroke:#000000; stroke-width:0.1500; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g122">
-    <path
-       d="M187.2248 134.7249 L225.9191 120.4521 "
-       id="path119" />
-    <path
-       d="M149.1248 134.7249 L187.2248 134.7249 "
-       id="path120" />
-    <path
-       d="M168.1748 33.9749 L225.4887 41.3739 "
-       id="path121" />
-    <path
-       d="M225.9191 120.4521 A1.4997 1.4997 0.0 0 0 226.8248 119.0749"
-       id="path122" />
-  </g>
-  <g
-     style="fill:none;  stroke:#000000; stroke-width:0.1000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;"
-     id="g124">
-    <path
-       d="M81.5667 128.2377 L92.3777 149.4546 "
-       id="path123" />
-    <path
-       d="M168.1748 33.9749 L82.9036 33.9749 "
-       id="path124" />
-  </g>
+     id="g122" />
 </svg>
